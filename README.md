@@ -43,7 +43,7 @@ Release date: 16-Mar-2023
 
 [1]: https://discord.gg/gjJEfq7ux8
 [2]: https://t.me/Microsoft_Activation_Scripts
-[3]: https://twitter.com/massgravel
+[3]: https://twitter.com/MasigwaFelix
 
 ---
 
