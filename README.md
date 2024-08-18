@@ -8,7 +8,7 @@ A Windows and Office activator using HWID / KMS38 / Online KMS activation method
 
 -   On Windows 8.1/10/11, right-click on the windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter\
-    `irm https://massgrave.dev/get | iex`
+    `irm https://get.activated.win`
 -   You will see the activation options, and follow onscreen instructions.
 -   That's all.
 
